@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_AWOS_EESA", "Examen_AWOS_EESA\Examen_AWOS_EESA.csproj", "{A4673666-B0FA-4752-8E15-708083C7073E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4673666-B0FA-4752-8E15-708083C7073E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4673666-B0FA-4752-8E15-708083C7073E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4673666-B0FA-4752-8E15-708083C7073E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4673666-B0FA-4752-8E15-708083C7073E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD8D1E20-82F8-4AEA-A44A-6137DB43C401}
+	EndGlobalSection
+EndGlobal
